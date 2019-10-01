@@ -22,4 +22,4 @@ The following links should open the workbooks in Google Colaboratory
 - [Lesson 017 - Time Series Data](https://colab.research.google.com/github/BillMatthews/ml-course/blob/master/017%20-%20Time%20Series%20Data%20Pre-Processing.ipynb)
 - [Lesson 018 - Univariate Timeseries Forecasting](https://colab.research.google.com/github/BillMatthews/ml-course/blob/master/018%20-%20Univariate%20Timeseries%20Forecasting.ipynb)
 - [Lesson 019 - Multi-variate Timeseries Forecasting](https://colab.research.google.com/github/BillMatthews/ml-course/blob/master/019%20-%20Multivariate%20Time%20Series%20Forecasting.ipynb)
-- [Lesson 020 - Time Series Forecast Project](https://github.com/BillMatthews/ml-course/blob/master/020%20-%20Time%20Series%20Forecast%20Project.ipynb)
+- [Lesson 020 - Time Series Forecast Project](https://colab.research.google.com/github/BillMatthews/ml-course/blob/master/020%20-%20Time%20Series%20Forecast%20Project.ipynb)
